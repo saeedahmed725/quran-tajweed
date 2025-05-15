@@ -1,5 +1,5 @@
 from collections import deque, namedtuple
-from tree import Exemplar, json2tree
+from quran_tajweed.tree import Exemplar, json2tree
 import glob
 import json
 import multiprocessing
